@@ -11,5 +11,5 @@ I am now focusing on
 #### Top Repositories
 
 
-| <a href="https://github.com/xihuai18/AORPO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xihuai18&repo=AORPO&theme=buefy&hide_border=true" /> | <a href="https://github.com/xihuai18/MARL-Comm"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xihuai18&repo=MARL-Comm&theme=buefy&hide_border=true" /> |
-| -- | -- |
+| <a href="https://github.com/xihuai18/AORPO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xihuai18&repo=AORPO&theme=buefy&hide_border=true" /> | <a href="https://github.com/xihuai18/MARL-Comm"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xihuai18&repo=MARL-Comm&theme=buefy&hide_border=true" /> | <a href="https://github.com/xihuai18/A2PO-ICLR2023"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xihuai18&repo=MARL-Comm&theme=buefy&hide_border=true" /> |
+| -- | -- | -- |
