@@ -2,5 +2,7 @@
 
 I am now focusing on 
 + Reinforcement Learning
-+ Multi-agent System, especially the efficiency of multi-agent reinforcement learning and the zero-shot generalization ability in cooperative multi-agent systems.  
++ Multi-agent System, especially 
+  + Efficiency of Multi-agent Reinforcement Learning;
+  + Zero-shot Generalization Ability in Cooperative Multi-agent Systems.  
 + Language-based(Symbolic) Planning
