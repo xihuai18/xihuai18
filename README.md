@@ -7,4 +7,4 @@ I am now focusing on
   + Zero-shot Generalization Ability in Cooperative Multi-agent Systems.  
 + Language-based(Symbolic) Planning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xihuai18&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xihuai18)
